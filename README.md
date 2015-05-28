@@ -1,4 +1,3 @@
 # HelloWorld
-# PRINTER
-# PLOY
-SUPAKORN    
+
+My name is Suppakorn Jianrungsin 
