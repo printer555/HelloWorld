@@ -1,5 +1,5 @@
 # HelloWorld
 
-PRINTER \n
-PLOY;
+PRINTER
+PLOY
 SUPPAKORN 
